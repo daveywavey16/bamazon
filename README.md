@@ -1,12 +1,12 @@
-#Node.js & MySQL
+Node.js & MySQL
 
 
-#Overview
+Overview
 
 In this node.js file, you'll be using CRUD mysql commands to update product quantities creating an Amazon-like storefront with the MySQL skills. The app will take in orders from customers and deplete stock from the store's inventory. 
 
-#How it works
-Using termanal the app will prompt users with two messages.
+How it works
+Using terminal the app will prompt users with two messages.
 
 The first should ask them the ID of the product they would like to buy.
 The second message should ask how many units of the product they would like to buy.
